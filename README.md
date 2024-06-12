@@ -1,9 +1,6 @@
-## The project is archived
+This project is a fork from Disassembler0 which intends to focus on new features and update current features. In contrast to the other forks that I saw it does not primarily focus on just storing my own config. However its been more than a year since I forked this and I did not yet commit anything.
 
-This project is a fork from Disassembler0 which intends to focus on new features and update current features. In contrast to the other forks that I saw it does not primarily focus on just storing my own config.
-
-##This is the Readme.,md from the original project:
-
+##This is the Readme.md from the original project:
 &nbsp;
 
 ---
